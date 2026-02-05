@@ -12,3 +12,12 @@ git status
 
 # Comando para commit específico: 
 git commit -a (nome do arquivo) -m "sua mensagem"
+
+# Comando para receber mudanças: 
+git pull
+
+# Comando para clonar um repositório: 
+git clone 
+
+# Remover arquivos do repositório: 
+git rm

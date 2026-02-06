@@ -31,3 +31,6 @@ git mv
 # Desfazendo alterações
 git checkout 
 
+# Ignorar arquivos no projeto
+.gitignore
+

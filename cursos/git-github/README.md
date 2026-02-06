@@ -21,3 +21,10 @@ git clone
 
 # Remover arquivos do repositório: 
 git rm
+
+# Verificar atualizações via log: 
+git log
+
+# Renomear arquivos ou ser movido para outro local: 
+git mv 
+

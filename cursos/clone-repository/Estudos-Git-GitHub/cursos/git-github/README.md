@@ -26,5 +26,5 @@ git rm
 git log
 
 # Renomear arquivos ou ser movido para outro local: 
-git mv
+git mv 
 

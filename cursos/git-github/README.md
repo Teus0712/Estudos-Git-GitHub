@@ -28,3 +28,6 @@ git log
 # Renomear arquivos ou ser movido para outro local: 
 git mv
 
+# Desfazendo alterações
+git checkout 
+

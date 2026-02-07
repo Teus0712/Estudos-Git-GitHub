@@ -65,4 +65,4 @@ git show <nome>
 git checkout <nome>
 
 # Enviar tags ao repositório 
-git push origin (nome tag)
+git push origin (nome tag) --tags

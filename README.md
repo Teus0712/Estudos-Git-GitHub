@@ -34,3 +34,5 @@ git checkout
 # Ignorar arquivos no projeto
 .gitignore
 
+# Unindo branches: 
+git merge <nome>

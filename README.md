@@ -63,3 +63,6 @@ git show <nome>
 
 # Alterar tags 
 git checkout <nome>
+
+# Enviar tags ao repositório 
+git push origin (nome tag)

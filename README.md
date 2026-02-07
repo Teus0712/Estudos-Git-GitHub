@@ -48,3 +48,6 @@ git merge <nome>
 
 # Prosseguir com uma solução sem perder o código
 git stash
+
+# Recuperar arquivos stash:
+git stash list ou git stash <nome>

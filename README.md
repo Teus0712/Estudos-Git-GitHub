@@ -54,3 +54,6 @@ git stash list > git stash apply (numero que o cmd vai informar)
 
 # Removendo a stash
 git stash list > git stash drop (numero da stash que ele informar)
+
+# utilizando tags para banches para demarcar o estágio do desenvolvimento:
+git tag -a <nome> -m "<msg>"

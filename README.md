@@ -51,3 +51,6 @@ git stash
 
 # Recuperar arquivos stash:
 git stash list > git stash apply (numero que o cmd vai informar)
+
+# Removendo a stash
+git stash list > git stash drop (numero da stash que ele informar)

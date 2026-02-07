@@ -42,3 +42,6 @@ git branch -d ou -delete
 
 # Mudar branches: 
 git checkout -b <nome>
+
+# Unindo branches: 
+git merge <nome>

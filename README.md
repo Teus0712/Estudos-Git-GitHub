@@ -45,3 +45,6 @@ git checkout -b <nome>
 
 # Unindo branches: 
 git merge <nome>
+
+# Prosseguir com uma solução sem perder o código
+git stash

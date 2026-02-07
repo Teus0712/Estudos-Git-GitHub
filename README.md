@@ -34,3 +34,11 @@ git checkout
 # Ignorar arquivos no projeto
 .gitignore
 
+# Criar Branches: 
+git branch <nome>
+
+# Deletar branches: 
+git branch -d ou -delete
+
+# Mudar branches: 
+git checkout -b <nome>

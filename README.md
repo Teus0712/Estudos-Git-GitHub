@@ -50,4 +50,4 @@ git merge <nome>
 git stash
 
 # Recuperar arquivos stash:
-git stash list ou git stash <nome>
+git stash list > git stash apply (numero que o cmd vai informar)

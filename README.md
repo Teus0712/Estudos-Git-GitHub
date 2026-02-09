@@ -78,3 +78,9 @@ git submodule
 
 # Enviar para o repositório os submodules:
 git push --recurse-submodules=on-demand
+
+# Exibindo diferenças:
+git diff <arquivo> <arquivo_b>
+
+# Log resumido do projeto: 
+git shortlog

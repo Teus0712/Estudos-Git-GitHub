@@ -54,24 +54,3 @@ git stash list > git stash apply (numero que o cmd vai informar)
 
 # Removendo a stash
 git stash list > git stash drop (numero da stash que ele informar)
-
-# utilizando tags para banches para demarcar o estágio do desenvolvimento:
-git tag -a <nome> -m "<msg>"
-
-# Verificar tags
-git show <nome>
-
-# Alterar tags 
-git checkout <nome>
-
-# Enviar tags ao repositório 
-git push origin (nome tag) --tags
-
-# Encontrando branches:
-git fetch
-
-# Trabalhando com submódulos: 
-git submodule add <repo>
-
-# Verificar submódulos: 
-git submodule

@@ -66,3 +66,6 @@ git checkout <nome>
 
 # Enviar tags ao repositório 
 git push origin (nome tag) --tags
+
+# Encontrando branches:
+git fetch

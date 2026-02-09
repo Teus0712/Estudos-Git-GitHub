@@ -75,3 +75,6 @@ git submodule add <repo>
 
 # Verificar submódulos: 
 git submodule
+
+# Enviar para o repositório os submodules:
+git push --recurse-submodules=on-demand

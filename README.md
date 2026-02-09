@@ -69,3 +69,9 @@ git push origin (nome tag) --tags
 
 # Encontrando branches:
 git fetch
+
+# Trabalhando com submódulos: 
+git submodule add <repo>
+
+# Verificar submódulos: 
+git submodule

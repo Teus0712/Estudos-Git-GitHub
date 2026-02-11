@@ -1,4 +1,4 @@
-# 🛠️ Masterizando Git & GitHub: Do Zero ao Workflow Profissional
+# 🛠️ Git & GitHub: Do Zero ao Profissional
 
 Este repositório é o meu laboratório de estudos de controle de versão. Aqui registro comandos, resoluções de problemas reais e boas práticas de versionamento.
 
